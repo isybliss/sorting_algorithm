@@ -120,5 +120,5 @@ sortButton.addEventListener("click", sortInputArray)
     If the number is positive, sort b before a.
     If the number is zero, do not change the order of a and b.
 
-    since it is in ascending order (small to big), it will be put as a - b
- */
+    since it is in ascending order (small to big), it will be put as a - b   
+*/
